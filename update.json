@@ -1,5 +1,5 @@
 {
-  "versao": "9.0.0",
-  "novidades": "SyncMirror Studio 9.0 - primeira versão estável.\n\n- Interface renovada\n- Atualizador integrado\n- Melhorias de estabilidade",
-  "url_download": "https://github.com/caiiqdj/SyncMirror-Releases/releases/download/v9.0.0/Instalar_SyncMirror_v9.0.0.exe"
+  "versao": "9.0.1",
+  "novidades": "Correção da janela de atualização.\n\n- Janela redimensionável e minimizável\n- Novidades com rolagem\n- Melhor tratamento de falha no download",
+  "url_download": "https://github.com/caiiqdj/SyncMirror-Releases/releases/download/v9.0.1/Instalar_SyncMirror_v9.0.1.exe"
 }
