@@ -1,5 +1,5 @@
 {
-  "versao": "9.0.1",
-  "novidades": "Correção da janela de atualização.\n\n- Janela redimensionável e minimizável\n- Novidades com rolagem\n- Melhor tratamento de falha no download",
-  "url_download": "https://github.com/caiiqdj/SyncMirror-Releases/releases/download/v9.0.1/Instalar_SyncMirror_v9.0.1.exe"
+  "versao": "9.0.3",
+  "novidades": "Correções visuais e de estabilidade.\n\n- Tema claro/noturno corrigido\n- Pop-ups acompanham a janela principal\n- Atualização com rolagem e controles do Windows\n- Limpeza automática de executáveis antigos",
+  "url_download": "https://github.com/caiiqdj/SyncMirror-Releases/releases/download/v9.0.3/Instalar_SyncMirror_v9.0.3.exe"
 }
