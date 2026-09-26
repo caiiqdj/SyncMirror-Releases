@@ -1,6 +1,6 @@
 {
-  "versao": "9.1.0",
-  "novidades": "Versão estável: conexão Wi-Fi refinada, pop-ups internos estáveis, tutorial AirPlay melhorado, tema automático e animações leves.",
-  "url_download": "https://github.com/caiiqdj/SyncMirror-Releases/releases/download/v9.1.0/Instalar_SyncMirror_v9.1.0.exe",
-  "sha256": "3a9b50e6405bb4342b8259dd6d0cd07831b74c7275a0ffc2c179a3c03194ad2d"
+  "versao": "10.1.0",
+  "novidades": "Interface refinada, biblioteca de gravações, qualidade Android configurável, Wi-Fi aprimorado, envio de arquivos, diagnóstico de conexão e AirPlay simplificado.",
+  "url_download": "https://github.com/caiiqdj/SyncMirror-Releases/releases/download/v10.1.0/Instalar_SyncMirror_v10.1.0.exe",
+  "sha256": "29212e37cc171cd3ad40e8db36e6431c583ed450776647d15f4bbbf71aa90302"
 }
