@@ -1,6 +1,6 @@
 {
-  "versao": "10.1.0",
-  "novidades": "Interface refinada, biblioteca de gravações, qualidade Android configurável, Wi-Fi aprimorado, envio de arquivos, diagnóstico de conexão e AirPlay simplificado.",
-  "url_download": "https://github.com/caiiqdj/SyncMirror-Releases/releases/download/v10.1.0/Instalar_SyncMirror_v10.1.0.exe",
-  "sha256": "29212e37cc171cd3ad40e8db36e6431c583ed450776647d15f4bbbf71aa90302"
+  "versao": "10.1.1",
+  "novidades": "Atualização aprimorada: aviso central com escolha de download, animação durante o processo, verificação SHA-256 e abertura segura do instalador após o fechamento do SyncMirror.",
+  "url_download": "https://github.com/caiiqdj/SyncMirror-Releases/releases/download/v10.1.1/Instalar_SyncMirror_v10.1.1.exe",
+  "sha256": "61681e83118adc2f11241a6599f7b804568c700d877b6fc9c175a104aaef0aa7"
 }
