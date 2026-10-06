@@ -1,6 +1,12 @@
 {
-  "versao": "10.1.1",
-  "novidades": "Atualização aprimorada: aviso central com escolha de download, animação durante o processo, verificação SHA-256 e abertura segura do instalador após o fechamento do SyncMirror.",
-  "url_download": "https://github.com/caiiqdj/SyncMirror-Releases/releases/download/v10.1.1/Instalar_SyncMirror_v10.1.1.exe",
-  "sha256": "61681e83118adc2f11241a6599f7b804568c700d877b6fc9c175a104aaef0aa7"
+  "schema": 1,
+  "versao": "10.1.18",
+  "novidades": "Melhorias na segurança do login e das atualizações. Verificação da autenticidade e integridade do instalador. Preparação de releases simplificada e organização dos arquivos do projeto.",
+  "url_download": "https://github.com/caiiqdj/SyncMirror-Releases/releases/download/v10.1.18/Instalar_SyncMirror_v10.1.18.exe",
+  "sha256": "d900037f0a8b8761c8188dccdcfab9819ff460932b7054773af4c05466c7e02b",
+  "size": 239728266,
+  "issued_at": 1791324607,
+  "expires_at": 1799100607,
+  "key_id": "bb5ddced9d442bd6c528a1cc8362cd9e99ab3e1df94fd74f1bb14195dfcf3e0f",
+  "signature": "h3N1abQwcdNXenfrIfKGsOeYwpfuCip3Z/LXlvfrShAF+ZTTVjGAobw84I//IPGDpB0Y3PRZUNspmebODb5aDg=="
 }
