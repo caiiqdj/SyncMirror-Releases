@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "versao": "10.1.18",
-  "novidades": "Melhorias na segurança do login e das atualizações. Verificação da autenticidade e integridade do instalador. Preparação de releases simplificada e organização dos arquivos do projeto.",
-  "url_download": "https://github.com/caiiqdj/SyncMirror-Releases/releases/download/v10.1.18/Instalar_SyncMirror_v10.1.18.exe",
-  "sha256": "d900037f0a8b8761c8188dccdcfab9819ff460932b7054773af4c05466c7e02b",
-  "size": 239728266,
-  "issued_at": 1791324607,
-  "expires_at": 1799100607,
+  "versao": "10.1.20",
+  "novidades": "Verificacao no navegador padrao do computador, sem exigir Edge. Correcoes no fluxo de compilacao e no instalador; mantida a verificacao de seguranca e o retorno ao aplicativo.",
+  "url_download": "https://github.com/caiiqdj/SyncMirror-Releases/releases/download/v10.1.20/Instalar_SyncMirror_v10.1.20.exe",
+  "sha256": "a0c94bf1bb308899cd809bab78809f2841debd02158bc7bd405200f3552df862",
+  "size": 239729290,
+  "issued_at": 1791338625,
+  "expires_at": 1799114625,
   "key_id": "bb5ddced9d442bd6c528a1cc8362cd9e99ab3e1df94fd74f1bb14195dfcf3e0f",
-  "signature": "h3N1abQwcdNXenfrIfKGsOeYwpfuCip3Z/LXlvfrShAF+ZTTVjGAobw84I//IPGDpB0Y3PRZUNspmebODb5aDg=="
+  "signature": "zvyZvywzk6WpabmHa2qJmveVmvMaLOh4/tqibs2+44FXdnOCmEHKoO6Rg066RIAaME9VBBMZAhkp8Jht6GkpBA=="
 }
