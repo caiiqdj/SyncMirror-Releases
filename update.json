@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "versao": "10.1.20",
-  "novidades": "Verificacao no navegador padrao do computador, sem exigir Edge. Correcoes no fluxo de compilacao e no instalador; mantida a verificacao de seguranca e o retorno ao aplicativo.",
-  "url_download": "https://github.com/caiiqdj/SyncMirror-Releases/releases/download/v10.1.20/Instalar_SyncMirror_v10.1.20.exe",
-  "sha256": "a0c94bf1bb308899cd809bab78809f2841debd02158bc7bd405200f3552df862",
-  "size": 239729290,
-  "issued_at": 1791338625,
-  "expires_at": 1799114625,
+  "versao": "10.1.21",
+  "novidades": "Corrige a repeticao do CAPTCHA durante a sessao aberta, mantendo renovacao do login, bloqueios de acesso e validade da assinatura.",
+  "url_download": "https://github.com/caiiqdj/SyncMirror-Releases/releases/download/v10.1.21/Instalar_SyncMirror_v10.1.21.exe",
+  "sha256": "6f70e786cc39314ae965e80b02d714879b9e5c3752d51e385c925f93491ce2c8",
+  "size": 239736791,
+  "issued_at": 1791343022,
+  "expires_at": 1799119022,
   "key_id": "bb5ddced9d442bd6c528a1cc8362cd9e99ab3e1df94fd74f1bb14195dfcf3e0f",
-  "signature": "zvyZvywzk6WpabmHa2qJmveVmvMaLOh4/tqibs2+44FXdnOCmEHKoO6Rg066RIAaME9VBBMZAhkp8Jht6GkpBA=="
+  "signature": "QViPmfg97YFUhYjQm7fT4w/8hlYykAP6ZGYd02ir6pVwyfzZkZ8SzoCs9PcqEbs9UUxmemG+rzsKNU7XFHO3AA=="
 }
