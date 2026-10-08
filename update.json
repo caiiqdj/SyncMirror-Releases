@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "versao": "10.1.27",
-  "novidades": "Compilacao e instalador corrigidos; login sem CAPTCHA e novo carregamento.",
-  "url_download": "https://github.com/caiiqdj/SyncMirror-Releases/releases/download/v10.1.27/Instalar_SyncMirror_v10.1.27.exe",
-  "sha256": "9f90303a0366966c20fc1be9f066b4a71605ec9f5fbb689ae545ae212ea9b64f",
-  "size": 239652843,
-  "issued_at": 1791489255,
-  "expires_at": 1799265255,
+  "versao": "10.1.31",
+  "novidades": "Melhorias no atualizador e correções na compilação manual.",
+  "url_download": "https://github.com/caiiqdj/SyncMirror-Releases/releases/download/v10.1.31/Instalar_SyncMirror_v10.1.31.exe",
+  "sha256": "3829e9f6101054cd5fbe44dee8bdcde9891723876f3ee4cbf55be830bd4ed0bf",
+  "size": 239693627,
+  "issued_at": 1791497915,
+  "expires_at": 1799273915,
   "key_id": "bb5ddced9d442bd6c528a1cc8362cd9e99ab3e1df94fd74f1bb14195dfcf3e0f",
-  "signature": "Yla1fdZgbiani6p7M5CtgG9lLLo61zlOEKKHhIRgoQxAEtyu5BSjjAV3r9c34QVElLezXkDvCcmaNRH1g2JRAQ=="
+  "signature": "r4rG2xGVfOuwjK+iBdIZeysXZnge1RSTXEOzm6tPAndLTnknd+bqW+SPmLepkpGwgmLinsSc9MLVPUFnUnUXCw=="
 }
